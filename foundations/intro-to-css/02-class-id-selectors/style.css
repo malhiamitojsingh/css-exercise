@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd {
+  background-color: hsl(7, 100%, 91%);
+  font-family: Verdana, sans-serif;
+}
+#second {
+  font-size: 32px;
+  color: hsla(210, 72%, 44%, 0.99);
+}
+.third,
+.fourth {
+  font-size: 24px;
+}
+#fourth {
+  background-color: hsla(112, 68%, 57%, 0.825);
+  font-weight: bold;
+}
